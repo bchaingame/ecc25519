@@ -4,5 +4,5 @@ ehthumbs.db
 Desktop.ini
 .idea
 .Idea
-out
-Out
+*.iml
+*.exe
